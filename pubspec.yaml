@@ -1,0 +1,17 @@
+name: crypto_tds_ledger_india
+description: FINAL APP
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.13.0
+  share_plus: ^7.2.1
+
+flutter:
+  uses-material-design: true
