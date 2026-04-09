@@ -1,5 +1,5 @@
-name: crypto_tds_ledger_india
-description: FINAL APP
+name: tds_pro_app
+description: FINAL PRO APP
 publish_to: "none"
 
 environment:
@@ -11,6 +11,11 @@ dependencies:
   intl: ^0.18.0
   firebase_core: ^2.24.0
   cloud_firestore: ^4.13.0
+  firebase_auth: ^4.15.0
+  csv: ^5.0.2
+  path_provider: ^2.0.11
+  pdf: ^3.10.4
+  printing: ^5.11.0
   share_plus: ^7.2.1
 
 flutter:
